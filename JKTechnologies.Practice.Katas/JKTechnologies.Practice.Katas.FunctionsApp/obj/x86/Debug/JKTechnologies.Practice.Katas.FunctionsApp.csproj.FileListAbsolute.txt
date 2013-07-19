@@ -1,5 +1,0 @@
-C:\TEMP2\csharp-katas\JKTechnologies.Practice.Katas\JKTechnologies.Practice.Katas.FunctionsApp\bin\Debug\JKTechnologies.Practice.Katas.FunctionsApp.exe
-C:\TEMP2\csharp-katas\JKTechnologies.Practice.Katas\JKTechnologies.Practice.Katas.FunctionsApp\bin\Debug\JKTechnologies.Practice.Katas.FunctionsApp.pdb
-C:\TEMP2\csharp-katas\JKTechnologies.Practice.Katas\JKTechnologies.Practice.Katas.FunctionsApp\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\TEMP2\csharp-katas\JKTechnologies.Practice.Katas\JKTechnologies.Practice.Katas.FunctionsApp\obj\x86\Debug\JKTechnologies.Practice.Katas.FunctionsApp.exe
-C:\TEMP2\csharp-katas\JKTechnologies.Practice.Katas\JKTechnologies.Practice.Katas.FunctionsApp\obj\x86\Debug\JKTechnologies.Practice.Katas.FunctionsApp.pdb

@@ -1,5 +1,0 @@
-c:\temp\exercises\Functions\Functions.Common\bin\Debug\Functions.Common.dll
-c:\temp\exercises\Functions\Functions.Common\bin\Debug\Functions.Common.pdb
-c:\temp\exercises\Functions\Functions.Common\obj\Debug\Functions.Common.csprojResolveAssemblyReference.cache
-c:\temp\exercises\Functions\Functions.Common\obj\Debug\Functions.Common.dll
-c:\temp\exercises\Functions\Functions.Common\obj\Debug\Functions.Common.pdb
