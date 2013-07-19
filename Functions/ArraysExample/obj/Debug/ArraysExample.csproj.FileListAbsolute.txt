@@ -1,0 +1,8 @@
+c:\temp\exercises\Functions\ArraysExample\bin\Debug\ArraysExample.exe.config
+c:\temp\exercises\Functions\ArraysExample\bin\Debug\ArraysExample.exe
+c:\temp\exercises\Functions\ArraysExample\bin\Debug\ArraysExample.pdb
+c:\temp\exercises\Functions\ArraysExample\bin\Debug\Functions.Common.dll
+c:\temp\exercises\Functions\ArraysExample\bin\Debug\Functions.Common.pdb
+c:\temp\exercises\Functions\ArraysExample\obj\Debug\ArraysExample.csprojResolveAssemblyReference.cache
+c:\temp\exercises\Functions\ArraysExample\obj\Debug\ArraysExample.exe
+c:\temp\exercises\Functions\ArraysExample\obj\Debug\ArraysExample.pdb
