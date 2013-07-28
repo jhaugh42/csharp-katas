@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace General.Dominion.Interface
 {
-    public interface ITreasureCard
+    public interface ITreasureCard : ICard
     {
+        int GetTreasureValue();
     }
 }

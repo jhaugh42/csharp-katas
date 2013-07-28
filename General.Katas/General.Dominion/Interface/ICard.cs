@@ -8,5 +8,7 @@ namespace General.Dominion.Interface
 {
     public interface ICard
     {
+        int Cost { get; set; }
+        string Name { get; set; }
     }
 }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace General.Dominion.Interface
 {
-    public interface IAttackCard
+    public interface IAttackCard : ICard
     {
+        void Attack(Game game);
     }
 }
