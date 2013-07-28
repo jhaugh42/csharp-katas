@@ -12,5 +12,12 @@ namespace General.Dominion
         public Dictionary<string, Stack<ICard>> Supply { get; set; }
         public List<ICard> Trash { get; set; }
            
+        public Game(int numPlayers)
+        {
+            Players = new List<Player>(numPlayers);
+            Supply = new Dictionary<string, Stack<ICard>>();
+            Trash = new List<ICard>();
+
+        }
     }
 }

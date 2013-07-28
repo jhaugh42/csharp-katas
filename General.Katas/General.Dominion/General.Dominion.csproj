@@ -63,6 +63,7 @@
     <Compile Include="Interface\ICurseCard.cs" />
     <Compile Include="Interface\ITreasureCard.cs" />
     <Compile Include="Interface\IVictoryCard.cs" />
+    <Compile Include="Methods\DeckActions.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
