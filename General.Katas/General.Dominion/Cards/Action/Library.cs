@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace General.Dominion.Interface
+namespace General.Dominion.Cards.Action
 {
-    public interface ICard
+    class Library
     {
-        int Cost { get; }
-        string Name { get; }
     }
 }

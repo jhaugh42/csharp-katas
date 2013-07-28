@@ -39,8 +39,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Card.cs" />
+    <Compile Include="Cards\Action\Adventurer.cs" />
+    <Compile Include="Cards\Action\Library.cs" />
+    <Compile Include="Cards\Action\Market.cs" />
+    <Compile Include="Cards\Action\Militia.cs" />
+    <Compile Include="Cards\Action\Mine.cs" />
+    <Compile Include="Cards\Action\Moat.cs" />
+    <Compile Include="Cards\Action\Smithy.cs" />
+    <Compile Include="Cards\Action\Village.cs" />
+    <Compile Include="Cards\Action\Woodcutter.cs" />
+    <Compile Include="Cards\Action\Workshop.cs" />
+    <Compile Include="Cards\Treasure\Copper.cs" />
+    <Compile Include="Cards\Treasure\Gold.cs" />
+    <Compile Include="Cards\Treasure\Silver.cs" />
+    <Compile Include="Cards\Victory\Province.cs" />
+    <Compile Include="Cards\Victory\Dutchy.cs" />
+    <Compile Include="Cards\Victory\Estate.cs" />
     <Compile Include="Game.cs" />
+    <Compile Include="GameRunner.cs" />
     <Compile Include="Interface\IAttackCard.cs" />
     <Compile Include="Interface\IActionCard.cs" />
     <Compile Include="Interface\ICard.cs" />
@@ -50,9 +66,7 @@
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Cards\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

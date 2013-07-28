@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using General.Dominion.Interface;
 
 namespace General.Dominion
 {
@@ -6,9 +7,9 @@ namespace General.Dominion
     {
         public string Name { get; set; }
 
-        public Stack<Card> Deck { get; set; }
-        public List<Card> DiscardPile { get; set; }
-        public List<Card> CardsInPlay { get; set; }
-        public List<Card> Hand { get; set; } 
+        public Stack<ICard> Deck { get; set; }
+        public List<ICard> DiscardPile { get; set; }
+        public List<ICard> CardsInPlay { get; set; }
+        public List<ICard> Hand { get; set; } 
     }
 }
