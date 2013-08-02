@@ -1,0 +1,6 @@
+*bin/*.pdb
+*obj/*.pdb
+*.suo
+*/bin*.exe
+*/obj*.exe
+*.cache
