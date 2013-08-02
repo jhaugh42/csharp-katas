@@ -12,7 +12,7 @@ namespace JKTechnologies.Practice.Katas.FunctionsApp
 
             string inputFromConsole = Console.ReadLine();
 
-
+            //comment
             int convertedString = Convert.ToInt32("34");
 
 
