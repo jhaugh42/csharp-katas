@@ -1,1 +1,0 @@
-c:\temp\exercises\Functions\FunctionsExample\bin\Debug\FunctionsExample.exe.config
