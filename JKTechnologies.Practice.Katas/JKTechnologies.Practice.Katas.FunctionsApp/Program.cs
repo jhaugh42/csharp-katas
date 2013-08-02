@@ -9,6 +9,13 @@ namespace JKTechnologies.Practice.Katas.FunctionsApp
     {
         static void Main(string[] args)
         {
+
+            string inputFromConsole = Console.ReadLine();
+
+
+            int convertedString = Convert.ToInt32("34");
+
+
             Console.WriteLine("WTF Mate");
             ShowPausePrompt();
 
@@ -21,6 +28,12 @@ namespace JKTechnologies.Practice.Katas.FunctionsApp
             Console.ReadKey();
 
 
+        }
+
+        private static int GetIntegerInputFromConsole(string consolePrompt)
+        {
+
+            return 0;
         }
     }
 }
