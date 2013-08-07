@@ -9,14 +9,21 @@ namespace JKTechnologies.Practice.Katas.FunctionsApp
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Enter a Number: ");
             string inputFromConsole = Console.ReadLine();
+            int convertedString = Convert.ToInt32(inputFromConsole);
 
-            //comment
-            int convertedString = Convert.ToInt32("34");
+            Console.WriteLine("Enter a Number: ");
+            string inputFromConsole1 = Console.ReadLine();
+            int convertedString1 = Convert.ToInt32(inputFromConsole1);
+
+            int Total = convertedString + convertedString1;
+
+            Console.WriteLine("Total of {0} + {1} = {2}", convertedString, convertedString1, Total);
 
 
-            Console.WriteLine("WTF Mate");
+            //Console.WriteLine("WTF Mate");
+            
             ShowPausePrompt();
 
         }
