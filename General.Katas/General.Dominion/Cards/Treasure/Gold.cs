@@ -7,7 +7,7 @@ using General.Dominion.Interface;
 
 namespace General.Dominion.Cards.Treasure
 {
-    public class Gold : ITreasureCard
+    public class Gold : IHasTreasureValue
     {
         public string Name { get { return "Gold"; } }
         public int Cost { get { return 6; } }

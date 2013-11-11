@@ -16,12 +16,12 @@ namespace General.Dominion.Cards.Action
 
         public int Cost
         {
-            get { throw new NotImplementedException(); }
+            get { return 6; }
         }
 
         public string Name
         {
-            get { throw new NotImplementedException(); }
+            get { return "Adventurer"; }
         }
 
     }

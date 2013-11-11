@@ -71,8 +71,8 @@ namespace General.Dominion
 
         private int CountTeasureInHand()
         {
-            return Hand.Where(crd => crd is ITreasureCard)
-                .Sum(crd => ((ITreasureCard) crd).GetTreasureValue());
+            return Hand.Where(crd => crd is IHasTreasureValue)
+                .Sum(crd => ((IHasTreasureValue) crd).GetTreasureValue());
         }
 
 

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace General.Dominion.Interface
+namespace General.Dominion
 {
-    public interface IActionCard
+    public class PlayerState
     {
-        void Act(Game game);
+
     }
 }

@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{A7F69D
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathCombineTest", "PathCombineTest\PathCombineTest.csproj", "{0F23C7CC-F7BB-4736-9027-3FE4BAEBFD11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{8AE03B7B-2855-4C44-8969-B904B38A8A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AE03B7B-2855-4C44-8969-B904B38A8A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AE03B7B-2855-4C44-8969-B904B38A8A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F23C7CC-F7BB-4736-9027-3FE4BAEBFD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F23C7CC-F7BB-4736-9027-3FE4BAEBFD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F23C7CC-F7BB-4736-9027-3FE4BAEBFD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F23C7CC-F7BB-4736-9027-3FE4BAEBFD11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
