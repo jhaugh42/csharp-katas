@@ -41,6 +41,9 @@
   <ItemGroup>
     <Compile Include="BatchProcessor.cs" />
     <Compile Include="BatchProcessorState.cs" />
+    <Compile Include="ConcurrentBatchProcessorResult.cs" />
+    <Compile Include="ConcurrentBatchProcessorState.cs" />
+    <Compile Include="ConcurrentBatchProcessor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
