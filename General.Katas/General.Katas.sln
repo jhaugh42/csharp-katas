@@ -16,6 +16,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{A7F69D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathCombineTest", "PathCombineTest\PathCombineTest.csproj", "{0F23C7CC-F7BB-4736-9027-3FE4BAEBFD11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPlayground", "LinqPlayground\LinqPlayground.csproj", "{1704B736-64E1-428F-B594-93402BA50C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GannettConfigXmlSerializationPlayground", "GannettConfigXmlSerializationPlayground\GannettConfigXmlSerializationPlayground.csproj", "{220D0037-528D-45B7-AF50-95753A5DB3D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +42,14 @@ Global
 		{0F23C7CC-F7BB-4736-9027-3FE4BAEBFD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F23C7CC-F7BB-4736-9027-3FE4BAEBFD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F23C7CC-F7BB-4736-9027-3FE4BAEBFD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1704B736-64E1-428F-B594-93402BA50C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1704B736-64E1-428F-B594-93402BA50C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1704B736-64E1-428F-B594-93402BA50C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1704B736-64E1-428F-B594-93402BA50C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220D0037-528D-45B7-AF50-95753A5DB3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220D0037-528D-45B7-AF50-95753A5DB3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220D0037-528D-45B7-AF50-95753A5DB3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220D0037-528D-45B7-AF50-95753A5DB3D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
