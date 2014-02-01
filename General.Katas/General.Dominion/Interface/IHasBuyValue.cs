@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace General.Dominion.Interface
 {
-    public interface IActionCard
+    public interface IHasBuyValue
     {
-        void Act(Game game);
+        int BuyValue { get; }
     }
 }

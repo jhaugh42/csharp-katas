@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace General.Dominion.Interface
+namespace GannettConfigXmlSerializationPlayground
 {
-    public interface IActionCard
+    class Program
     {
-        void Act(Game game);
+        static void Main(string[] args)
+        {
+        }
     }
 }

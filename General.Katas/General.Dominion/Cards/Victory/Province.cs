@@ -7,7 +7,7 @@ using General.Dominion.Interface;
 
 namespace General.Dominion.Cards.Victory
 {
-    public class Province : IVictoryCard
+    public class Province : IHasVictoryPoints
     {
         public string Name { get { return "Province"; } }
         public int Cost { get { return 8; } }

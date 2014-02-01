@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace General.Dominion.Interface
 {
-    public interface IVictoryCard : ICard
+    public interface IHasActionValue
     {
-        int GetVictoryPoints();
+        int ActionValue { get; }
     }
 }
